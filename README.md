@@ -10,12 +10,12 @@
 
 <br>
 
-## 👩‍💻 Sobre mim
+## About me
 
-- 🚀 Desenvolvedora **Full Stack**, do front ao back e ao banco de dados
-- 🔭 Sempre construindo e aprendendo algo novo
-- 💬 Me chama pra trocar uma ideia sobre código, tech ou projetos
-- ⚡ Fun fact: aqui embaixo tem meu stack completo 👀
+- 🚀 Full Stack Developer, from front-end to back-end to database
+- 🔭 Always building and learning something new
+- 💬 Hit me up to talk about code, tech, or projects
+- ⚡ Fun fact: my full stack is right below 👀
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=2000&color=6C63FF&center=true&vCenter=true&multiline=true&width=500&height=150&lines=if(!tired())+{%0A++keepCoding()%3B%0A}+else+{%0A++drinkCoffee()%3B%0A}" />
