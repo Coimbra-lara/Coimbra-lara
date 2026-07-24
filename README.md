@@ -61,3 +61,4 @@
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:6C63FF,100:A98CE0&height=100&section=footer" />
+
