@@ -25,8 +25,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Coimbra-lara&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coimbra-lara&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Coimbra-lara&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Coimbra-lara&layout=compact&theme=radical&hide_border=true" />
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coimbra-lara&theme=radical&hide_border=true" />
