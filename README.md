@@ -23,7 +23,7 @@
 
 <br>
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mysql,html,css,tailwind&theme=dark" />
@@ -31,7 +31,7 @@
 
 <br>
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&count_private=true" />
@@ -44,7 +44,7 @@
 
 <br>
 
-## 📫 Vamos nos conectar
+## 📫 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lara-coimbra-006467335/" target="_blank">
